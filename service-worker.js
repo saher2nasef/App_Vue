@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.29cd3a3a69d2d37b8b3d9370670a2864.js"
+  "/precache-manifest.c8c8f8effd644663e5ca62dc7cfb6888.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "app-saher"});
